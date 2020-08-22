@@ -1,2 +1,2 @@
-        # H1 Scene-Text-Recognition-OpenCV
-(1) text detection and (2) text recognition using OpenCV, Python, and Tesseract.
+       <Strong> <h1> Scene-Text-Recognition-OpenCV </h1> </strong>
+ Text detection and text recognition using OpenCV, Python, and Tesseract.
