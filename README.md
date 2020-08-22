@@ -2,7 +2,7 @@
 # Scene Text Recognition using OpenCV and Teseeract      
  ### Text detection and text recognition using OpenCV, Python, and Tesseract.
  
- Implementation done using Zhou et al.’s 2017 paper, [EAST: An Efficient and Accurate Scene Text Detector (https://arxiv.org/abs/1704.03155)
+ Implementation done using Zhou et al.’s 2017 paper, [EAST: An Efficient and Accurate Scene Text Detector] (https://arxiv.org/abs/1704.03155)
  
  
  **Requirements**
