@@ -1,3 +1,3 @@
-      <h1> Scene Text Recognition OpenCV</h1> 
+     # Scene Text Recognition OpenCV
       
- Text detection and text recognition using OpenCV, Python, and Tesseract.
+ ## Text detection and text recognition using OpenCV, Python, and Tesseract.
